@@ -1,0 +1,14 @@
+// overview description file for zm_westwood_fix.bsp
+
+global 
+{
+	ZOOM	2.15
+	ORIGIN	-576.50 -128.00	-213.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/zm_westwood_fix.bmp"
+	HEIGHT	-213.00
+}

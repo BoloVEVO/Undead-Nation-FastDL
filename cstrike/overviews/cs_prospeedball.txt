@@ -1,0 +1,12 @@
+global 
+{
+	ZOOM	3.38
+	ORIGIN	656	-272	-241.03
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/cs_prospeedball.bmp"
+	HEIGHT	-241.03
+}

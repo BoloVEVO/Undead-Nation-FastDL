@@ -1,0 +1,12 @@
+global 
+{
+	ZOOM	1.68
+	ORIGIN	1228.00 	-1952.00	256.00
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/zp_pollution_v2.bmp"
+	HEIGHT	-7.00
+}

@@ -1,0 +1,10 @@
+gfx/env/merinjeiBk.tga
+gfx/env/merinjeiDn.tga
+gfx/env/merinjeiFt.tga
+gfx/env/merinjeiLf.tga
+gfx/env/merinjeiRt.tga
+gfx/env/merinjeiUp.tga
+maps/zm_merinjei.txt
+maps/zm_merinjei.res
+models/zm_merinjei/flo_grass2.mdl
+models/zm_merinjei/tuscan_grass1a.mdl

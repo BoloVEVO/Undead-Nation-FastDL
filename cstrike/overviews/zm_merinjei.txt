@@ -1,0 +1,12 @@
+global 
+{
+	ZOOM	2.58
+	ORIGIN	280.34	-98.40	-564
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/zm_merinjei.bmp"
+	HEIGHT	-564
+}

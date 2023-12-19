@@ -1,0 +1,10 @@
+﻿Waterfall(Falls) - Zombie
+Planning / Production : Nexon
+Graphics : Nexon
+
+During the battle between counter-terrorism and terrorism, an unidentified zombie-like creature
+escaped from the Rex Labs. Humans now join forces to survive.
+
+Humans: Survive zombie attacks within the limited time or kill all zombies.
+
+Zombies: Infect all humans within the limited time.

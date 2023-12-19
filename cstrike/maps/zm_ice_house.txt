@@ -1,0 +1,7 @@
+zm_ice_house - Zombie Map by Vova.
+
+Survivor:Kill zombie.
+
+Zombie:kill survivor.
+
+(Press FIRE to continue) 

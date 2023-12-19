@@ -1,0 +1,14 @@
+// overview description file for zm_anthill_city.bsp
+
+global 
+{
+	ZOOM	1.17
+	ORIGIN	445.50 	-542.94	 -1320.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/zm_anthill_city.bmp"
+	HEIGHT	-1320.00
+}

@@ -1,0 +1,1 @@
+just extract the files into your cstrike\maps folder
